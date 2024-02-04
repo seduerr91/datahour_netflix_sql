@@ -15,11 +15,11 @@ To maximize your experience in our upcoming webinar, please consider the followi
 
 Note: If `make <commands>` do not work for you, then follow this instructions for [Mac](https://stackoverflow.com/questions/10265742/how-to-install-make-and-gcc-on-a-mac) or [Windows](https://stackoverflow.com/questions/32127524/how-to-install-and-use-make-in-windows).
 
-Please clone this repository with `git clone <repository link>`
-Next, install the dependencies with `make install`
-Then, start the service with `make run`
-Finally, test the service in another terminal with `make query` for a quick test
-Validate it with `make validate`
+- Please clone this repository with `git clone https://github.com/seduerr91/datahour_netflix_sql`
+- Next, install the dependencies with `make install`
+- Then, start the service with `make run`
+- Finally, test the service in another terminal with `make query` for a quick test
+- Validate it with `make validate`
 
 
 ### Hosted by Seb Duerr from Cordial.com
