@@ -1,3 +1,6 @@
+requests
+rich
+sentence-transformers
 pandas
 pathlib
 openai
